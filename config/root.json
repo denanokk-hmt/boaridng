@@ -1,0 +1,7 @@
+{
+    "appli_name" : "boarding",
+    "server_code" : "svc",
+    "environment" : "stg",
+    "series" : "v2",
+    "dummy_commit" : ""
+}
